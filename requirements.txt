@@ -1,0 +1,5 @@
+streamlit
+scenedetect[opencv-headless]
+python-pptx
+opencv-python-headless
+numpy
